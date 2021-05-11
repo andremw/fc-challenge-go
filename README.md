@@ -1,0 +1,1 @@
+Run the image with `docker run --rm andremw/codeeducation`
